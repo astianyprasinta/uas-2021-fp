@@ -2,5 +2,5 @@
 NAMA : ASTIANY DWI PRASINTA SARI <br>
 NIM : 18090059 <br>
 KELAS : 6A <br>
-LINK HEROKU : <br>
+LINK HEROKU : http://laptop-asti.herokuapp.com/login <br>
 LINK PENJELASAN : <br>
